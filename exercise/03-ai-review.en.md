@@ -17,4 +17,4 @@ The agent writes a one-page ATAM-style review to [`outputs/3-review.md`](outputs
 
 **Don't act on the review yet.** Read it, commit it, and bring it to the review board in Part B. The board will decide which of its findings matter.
 
-- **My first impression of the AI's review** (one sentence): …
+- **My first impression of the AI's review** (one sentence): Sharper than I expected — it caught the real failure window (payment/shipping before the durable order commit) that my ADR only hinted at, though its email-backlog "risk" just repeated a number my ADR already worked out.
